@@ -98,7 +98,3 @@ Contributions are welcome! If you have ideas for new features, bug fixes, or gen
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
