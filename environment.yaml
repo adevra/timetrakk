@@ -1,0 +1,15 @@
+name: timetrakk
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - psutil
+  - tkinter
+  - pywin32
+  - pip:
+      - pygetwindow
+      - infi.systray
+      - pyqt6
+      - pyqttoast
+      - pillow

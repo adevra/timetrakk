@@ -1,7 +1,7 @@
 # -*- mode: python ; coding: utf-8 -*-
 from PyInstaller.utils.hooks import collect_all
 
-datas = [('config.json', 'data'), ('time_data.json', 'data')]
+datas = [('config.json', 'data'), ('time_data.json', 'data'), ('icon.ico', 'data')]
 binaries = []
 hiddenimports = ['win32gui', 'win32process']
 tmp_ret = collect_all('PyQt6')

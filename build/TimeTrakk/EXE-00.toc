@@ -79,7 +79,7 @@
  [],
  False,
  False,
- 1731526668,
+ 1731534551,
  [('runw.exe',
    'c:\\Users\\adev\\anaconda3\\envs\\time_trakk_env\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
    'EXECUTABLE')],
