@@ -1,4 +1,4 @@
-![alt text](https://blog.anildevran.com/content/images/size/w800/format/webp/2024/11/ZBrush_SzxcQyMY2R-1.png)
+![Time Trakk](https://blog.anildevran.com/content/images/size/w800/format/webp/2024/11/ZBrush_SzxcQyMY2R-1.png)
 
 # Time Trakk: Your Personal Work Tracker for DCC Apps
 
@@ -23,7 +23,7 @@ The report provides both an overview and in-depth details.
 ### 4. Runs in the Background
 Operates quietly in the background with a system tray icon. Notifications keep you updated on the tracking status without disrupting your workflow.
 
-![alt text](https://blog.anildevran.com/content/images/2024/11/image-3.png)
+![Toast Notifications](https://blog.anildevran.com/content/images/2024/11/image-3.png)
 
 ### 5. User-Friendly GUI
 Features an intuitive graphical interface for starting, stopping, and generating detailed usage report in HTML. Designed to be simple and accessible for all users.
