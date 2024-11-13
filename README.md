@@ -62,7 +62,7 @@ If you prefer a to build from source
 2. Setup your environment as mentioned before, activate the environment and intall pyinstaller package to this environment
 3. Build with:
    ```bash
-   pyinstaller --noconfirm --onedir --windowed --icon=icon.ico --add-data "config.json;data" --add-data "time_data.json;data" --collect-all PyQt6 --hidden-import=win32gui --hidden-import=win32process TimeTrakk.py
+   pyinstaller --noconfirm --onedir --windowed --icon=icon.ico --add-data "config.json;data" --add-data "time_data.json;data" --add-data "icon.ico;data" --collect-all PyQt6 --hidden-import=win32gui --hidden-import=win32process TimeTrakk.py
    ```
 
 ---
